@@ -216,12 +216,12 @@ O objetivo deste projeto foi praticar:
 
 Durante o desenvolvimento deste projeto foram reforçados conhecimentos sobre:
 
-✔️ Herança  
-✔️ Polimorfismo  
-✔️ Estruturas de repetição  
-✔️ Estruturas condicionais  
-✔️ Métodos  
-✔️ Classes abstratas e reutilização de código  
+- Herança  
+- Polimorfismo  
+- Estruturas de repetição  
+- Estruturas condicionais  
+- Métodos  
+- Classes abstratas e reutilização de código  
 
 ---
 
