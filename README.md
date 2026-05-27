@@ -103,7 +103,7 @@ Este projeto utiliza conceitos fundamentais da linguagem Java:
 1 - Cadastrar funcionário padrão
 2 - Cadastrar funcionário comissionado
 3 - Cadastrar Funcionário Produção
-4 - Cadastrar funcionário de produçã
+4 - Mostrar folha de pagamento
 0 - Encerrar
 ```
 
