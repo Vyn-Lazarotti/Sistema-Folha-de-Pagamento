@@ -182,6 +182,8 @@ Recomendadas:
 SistemaPagamento.java
 ```
 
+* necessário que os outros arquivos também estejam abertos
+
 ---
 
 # 🛠️ Tecnologias utilizadas
