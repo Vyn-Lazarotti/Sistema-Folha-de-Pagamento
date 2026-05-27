@@ -182,7 +182,7 @@ Recomendadas:
 SistemaPagamento.java
 ```
 
-* necessário que os outros arquivos também estejam abertos
+(Necessário que os outros arquivos também estejam abertos)
 
 ---
 
