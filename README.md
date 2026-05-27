@@ -6,9 +6,9 @@
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/POO-Herança%20%7C%20Polimorfismo-blueviolet?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge"/>
 
 </div>
 
