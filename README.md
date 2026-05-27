@@ -160,7 +160,7 @@ Salário final: 2100.0
 ## 1️⃣ Clone (ou baixe) o repositório
 
 ```bash
-git clone https://github.com/seuusuario/seurepositorio.git
+git clone https://github.com/Vyn-Lazarotti/Sistema-Folha-de-Pagamento
 ```
 
 ---
