@@ -198,7 +198,7 @@ SistemaPagamento.java
 
 ---
 
-# Objetivo Acadêmico
+# Objetivo acadêmico
 
 O objetivo deste projeto foi praticar:
 
