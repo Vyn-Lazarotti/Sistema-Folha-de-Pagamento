@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💼 Sistema de Folha de Pagamento
+# Sistema de Folha de Pagamento
 
 ### Projeto desenvolvido em Java utilizando Programação Orientada a Objetos (POO)
 
@@ -14,7 +14,7 @@
 
 ---
 
-# 📖 Sobre o projeto
+# Sobre o projeto
 
 Este projeto simula um sistema simples de **folha de pagamento**, desenvolvido para fins acadêmicos na disciplina de **Algoritmos e Programação** da Una (curso: Análise e Desenvolvimento de Sistemas) através da plataforma DreamShaper.
 
@@ -30,7 +30,7 @@ Tudo isso utilizando conceitos fundamentais da **Programação Orientada a Objet
 
 ---
 
-# ✨ Funcionalidades
+# Funcionalidades
 
 - Cadastro de funcionários  
 - Funcionários armazenados em `ArrayList`  
@@ -42,15 +42,15 @@ Tudo isso utilizando conceitos fundamentais da **Programação Orientada a Objet
 
 ---
 
-# 👨‍💼 Tipos de funcionários
+# Tipos de funcionários
 
-## 🧍 Funcionário Padrão
+## Funcionário Padrão
 
 Recebe apenas o salário base.
 
 ---
 
-## 💰 Funcionário Comissionado
+## Funcionário Comissionado
 
 Recebe:
 - salário base
@@ -64,7 +64,7 @@ comissao = venda * (percentual / 100);
 
 ---
 
-## 🏭 Funcionário de Produção
+## Funcionário de Produção
 
 Recebe:
 - salário base
@@ -78,7 +78,7 @@ bonus = qtdPecas * valorPeca;
 
 ---
 
-# 🧠 Conceitos aplicados
+# Conceitos aplicados
 
 Este projeto utiliza conceitos fundamentais da linguagem Java:
 
@@ -95,7 +95,7 @@ Este projeto utiliza conceitos fundamentais da linguagem Java:
 
 ---
 
-# 🖥️ Demonstração
+# Demonstração
 
 ```text
 --- MENU CADASTRO DE FUNCIONÁRIO ---
@@ -109,7 +109,7 @@ Este projeto utiliza conceitos fundamentais da linguagem Java:
 
 ---
 
-# 💸 Exemplo da folha de pagamento
+# Exemplo da folha de pagamento
 
 ```text
 --- FUNCIONÁRIOS / FOLHA DE PAGAMENTO ---
@@ -139,7 +139,7 @@ Salário final: 2100.0
 
 ---
 
-# 📂 Estrutura do projeto
+# Estrutura do projeto
 
 ```text
 📦 Sistema-Folha-de-Pagamento
@@ -155,9 +155,9 @@ Salário final: 2100.0
 
 ---
 
-# 🚀 Como executar
+# Como executar
 
-## 1️⃣ Clone (ou baixe) o repositório
+## 1) Clone (ou baixe) o repositório
 
 ```bash
 git clone https://github.com/Vyn-Lazarotti/Sistema-Folha-de-Pagamento
@@ -165,7 +165,7 @@ git clone https://github.com/Vyn-Lazarotti/Sistema-Folha-de-Pagamento
 
 ---
 
-## 2️⃣ Abra em uma IDE que aceite Java
+## 2) Abra em uma IDE que aceite Java
 
 Recomendadas:
 
@@ -176,7 +176,7 @@ Recomendadas:
 
 ---
 
-## 3️⃣ Execute o arquivo
+## 3️) Execute o arquivo
 
 ```text
 SistemaPagamento.java
@@ -186,7 +186,7 @@ SistemaPagamento.java
 
 ---
 
-# 🛠️ Tecnologias utilizadas
+# Tecnologias utilizadas
 
 <div align="left">
 
@@ -198,7 +198,7 @@ SistemaPagamento.java
 
 ---
 
-# 🎯 Objetivo Acadêmico
+# Objetivo Acadêmico
 
 O objetivo deste projeto foi praticar:
 
@@ -212,7 +212,7 @@ O objetivo deste projeto foi praticar:
 
 ---
 
-# 📚 Aprendizados
+# Aprendizados
 
 Durante o desenvolvimento deste projeto foram reforçados conhecimentos sobre:
 
