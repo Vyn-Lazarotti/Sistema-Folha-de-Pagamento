@@ -85,7 +85,6 @@ public class SistemaPagamento {
                     for(Funcionario f: funcionarios){
                         f.exibirDados();
                     }
-
                     break;
 
                 default: //Para caso o usuário digite algum número diferente de 0, 1, 2, 3 ou 4
