@@ -32,13 +32,13 @@ Tudo isso utilizando conceitos fundamentais da **Programação Orientada a Objet
 
 # ✨ Funcionalidades
 
-✔️ Cadastro de funcionários  
-✔️ Funcionários armazenados em `ArrayList`  
-✔️ Menu interativo no terminal  
-✔️ Cálculo automático de salários  
-✔️ Folha de pagamento completa  
-✔️ Diferentes tipos de funcionários  
-✔️ Aplicação de conceitos de POO  
+- Cadastro de funcionários  
+- Funcionários armazenados em `ArrayList`  
+- Menu interativo no terminal  
+- Cálculo automático de salários  
+- Folha de pagamento completa  
+- Diferentes tipos de funcionários  
+- Aplicação de conceitos de POO  
 
 ---
 
